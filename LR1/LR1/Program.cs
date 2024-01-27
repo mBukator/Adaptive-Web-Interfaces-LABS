@@ -43,15 +43,23 @@ class Program {
         File.WriteAllText(filePath, loremIpsumText);
         Console.WriteLine($"The file '{filePath}' was successfully created and filled with the text.\n");
     }
+
+
     static void CountWordsInLoremIpsum() {
         string loremIpsumText = File.ReadAllText("LoremIpsum.txt");
         string[] words = loremIpsumText.Split(' ');
         Console.WriteLine($"Number of words in the text: {words.Length}\n");
     }
 
+
+    /* 
+     * The PerformMathOperation method takes a user expression, 
+     * calls the EvaluateMathExpression method to evaluate it,
+     * and displays the result or an error message on the console.
+    */
     static void PerformMathOperation() {
         Console.WriteLine("Enter the expression to calculate:");
-        string expression = Console.ReadLine();
+        string expression = Console.ReadLine(); // Read the expression entered by the user and store it in a local variable
 
         try {
             double result = EvaluateMathExpression(expression);

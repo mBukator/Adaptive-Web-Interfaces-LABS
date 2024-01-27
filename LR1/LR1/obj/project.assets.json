@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Max Bukator\\Desktop\\Лабы\\web-cs\\LR1\\LR1\\LR1.csproj",
+      "projectUniqueName": "C:\\Users\\Max Bukator\\Desktop\\Лабы\\web-cs\\labs\\LR1\\LR1\\LR1.csproj",
       "projectName": "LR1",
-      "projectPath": "C:\\Users\\Max Bukator\\Desktop\\Лабы\\web-cs\\LR1\\LR1\\LR1.csproj",
+      "projectPath": "C:\\Users\\Max Bukator\\Desktop\\Лабы\\web-cs\\labs\\LR1\\LR1\\LR1.csproj",
       "packagesPath": "C:\\Users\\Max Bukator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Max Bukator\\Desktop\\Лабы\\web-cs\\LR1\\LR1\\obj\\",
+      "outputPath": "C:\\Users\\Max Bukator\\Desktop\\Лабы\\web-cs\\labs\\LR1\\LR1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Max Bukator\\AppData\\Roaming\\NuGet\\NuGet.Config",
