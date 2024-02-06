@@ -1,0 +1,14 @@
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR3\LR3\obj\Debug\net7.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR3\LR3\obj\Debug\net7.0\LR3.AssemblyInfoInputs.cache
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR3\LR3\obj\Debug\net7.0\LR3.AssemblyInfo.cs
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR3\LR3\obj\Debug\net7.0\LR3.csproj.CoreCompileInputs.cache
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR3\LR3\bin\Debug\net7.0\LR3.exe
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR3\LR3\bin\Debug\net7.0\LR3.deps.json
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR3\LR3\bin\Debug\net7.0\LR3.runtimeconfig.json
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR3\LR3\bin\Debug\net7.0\LR3.dll
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR3\LR3\bin\Debug\net7.0\LR3.pdb
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR3\LR3\obj\Debug\net7.0\LR3.dll
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR3\LR3\obj\Debug\net7.0\refint\LR3.dll
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR3\LR3\obj\Debug\net7.0\LR3.pdb
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR3\LR3\obj\Debug\net7.0\LR3.genruntimeconfig.cache
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR3\LR3\obj\Debug\net7.0\ref\LR3.dll
