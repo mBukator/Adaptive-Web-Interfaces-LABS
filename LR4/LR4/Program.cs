@@ -39,5 +39,19 @@ class Program {
         foreach (MethodInfo methodInfo in valheimTypeInfo.GetMethods()) {
             Console.WriteLine(methodInfo.Name + " - " + methodInfo.ReturnType + " - " + methodInfo.GetType());
         }
+
+
+        // Method call with Reflection
+        Console.Write("\n");
+
+        MethodInfo valheimMethod = valheimType.GetMethod("GetFullInfo");
+
+        try {
+            if (valheimMethod != null) {
+                valheimMethod.Invoke(valheim, null );
+            }
+        } catch (Exception e) {
+            Console.WriteLine("Error: " + e.Message);
+        }
     }
 }
