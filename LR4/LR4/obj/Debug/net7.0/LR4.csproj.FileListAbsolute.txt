@@ -1,0 +1,14 @@
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR4\LR4\bin\Debug\net7.0\LR4.exe
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR4\LR4\bin\Debug\net7.0\LR4.deps.json
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR4\LR4\bin\Debug\net7.0\LR4.runtimeconfig.json
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR4\LR4\bin\Debug\net7.0\LR4.dll
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR4\LR4\bin\Debug\net7.0\LR4.pdb
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR4\LR4\obj\Debug\net7.0\LR4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR4\LR4\obj\Debug\net7.0\LR4.AssemblyInfoInputs.cache
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR4\LR4\obj\Debug\net7.0\LR4.AssemblyInfo.cs
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR4\LR4\obj\Debug\net7.0\LR4.csproj.CoreCompileInputs.cache
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR4\LR4\obj\Debug\net7.0\LR4.dll
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR4\LR4\obj\Debug\net7.0\refint\LR4.dll
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR4\LR4\obj\Debug\net7.0\LR4.pdb
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR4\LR4\obj\Debug\net7.0\LR4.genruntimeconfig.cache
+C:\Users\Max Bukator\Desktop\Лабы\web-cs\labs\LR4\LR4\obj\Debug\net7.0\ref\LR4.dll
