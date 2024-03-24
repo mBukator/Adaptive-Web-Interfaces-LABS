@@ -1,9 +1,18 @@
+using LR7.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddScoped<IUserService, UserService>();    // –еЇстрац≥€ UserService з областю видимост≥ Scoped
+                                                            // => окремий екземпл€р дл€ кожного HTTP-запиту
+builder.Services.AddScoped<IVehicleService, VehicleService>();    // –еЇстрац≥€ UserService з областю видимост≥ Scoped
+                                                                  // => окремий екземпл€р дл€ кожного HTTP-запиту
+builder.Services.AddScoped<IParkingSectionService, ParkingSectionService>();    // –еЇстрац≥€ UserService з областю видимост≥ Scoped
+                                                                                // => окремий екземпл€р дл€ кожного HTTP-запиту
+builder.Services.AddScoped<IParkingSpaceService, ParkingSpaceService>();    // –еЇстрац≥€ UserService з областю видимост≥ Scoped
+                                                                            // => окремий екземпл€р дл€ кожного HTTP-запиту
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
