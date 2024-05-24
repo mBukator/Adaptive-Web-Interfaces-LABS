@@ -33,7 +33,7 @@ class LR3 {
         thread2.Start();
 
 
-        Console.WriteLine("===[ END ]===");
+        Console.WriteLine("====[ END ]====");
     }
 
     static void generateRandomNumber() {
@@ -92,9 +92,9 @@ class LR3 {
 
         Console.WriteLine("\n====[ API call from GetAsync() ]====");
 
-        string url = "https://api.polygon.io/v2/aggs/ticker/TSLA/range/1/day/2023-01-09/2023-01-09?adjusted=true&sort=asc&limit=120&apiKey=API_KEY";
+        string url = "https://api.polygon.io/v2/aggs/ticker/TSLA/range/1/day/2023-01-09/2023-01-09?adjusted=true&sort=asc&limit=120&apiKey=lO_Avyrnt0MmYAWxgaffHW5l11ySBjFH";
 
-                    Console.WriteLine("Receiving data from API...");
+        Console.WriteLine("Receiving data from API...");
         using (HttpClient client = new HttpClient()) {
             try {
                 HttpResponseMessage response = await client.GetAsync(url);
